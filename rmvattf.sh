@@ -1,0 +1,3 @@
+xattr *
+xattr -c *
+xattr *
